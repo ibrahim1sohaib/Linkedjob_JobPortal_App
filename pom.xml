@@ -8,7 +8,7 @@
 		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.luv2code</groupId>
+	<groupId>com.Ibrahim</groupId>
 	<artifactId>jobportalApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jobportal</name>
@@ -98,6 +98,7 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+
 			</plugin>
 		</plugins>
 	</build>
